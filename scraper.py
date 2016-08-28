@@ -34,7 +34,7 @@ def getAllArtistLyrics(artist):
 
 
 def main():
-    artist = 'Whiskey_Myers'
+    artist = 'Lynyrd_Skynyrd'
     getAllArtistLyrics(artist)
 
 main()
